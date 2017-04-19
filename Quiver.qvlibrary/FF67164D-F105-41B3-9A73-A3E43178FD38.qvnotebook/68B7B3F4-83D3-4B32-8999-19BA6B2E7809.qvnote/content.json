@@ -1,0 +1,13 @@
+{
+  "title": "Call - 3/21/17",
+  "cells": [
+    {
+      "type": "markdown",
+      "data": "\n### Pillar Scores:\n  * Initial like worth 20\n  * 2nd time worth 15\n  * 3rd time worth 10\n  * 4th time worth 5\n  * subsequent worth 2\n\n"
+    },
+    {
+      "type": "markdown",
+      "data": "### Example:\n\n|                | A | B | C | D | E | F | G | H |\n|----------------|---|---|---|---|---|---|---|---|\n| R1  _(20 pts)_ | ↑ | ↓ | ↑ | ↓ | ↑ | ↓ | ↑ | ↓ |\n| R2  _(15 pts)_ | ↑ | ↑ | ↓ | ↓ | ↑ | ↓ | ↓ | ↓ |\n| R3  _(10 pts)_ | ↑ | ↑ | ↓ | ↑ | ↓ |   |   |   |\n| R4  _(5 pts)_  | ↓ | ↑ | ↑ | ↑ | ↑ |   |   |   |\n| R5+ _(2 pts)_  |   |   |   |   |   |   |   |   |"
+    }
+  ]
+}
